@@ -2,7 +2,7 @@
 num1 = 1 #Code from ClientA
 num4 = 40 #Code from ClientB
 num2 = 10 #Code from ClientB
-num3 = 30 #Code from ClientA
+num3 = 300 #Code from ClientA
 <<<<<<< HEAD
 num5 = 50 #Code from ClientB
 =======
