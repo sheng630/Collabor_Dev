@@ -8,3 +8,5 @@ num5 = 50 #Code from ClientB
 =======
 
 >>>>>>> 669917a7d567c527688220f28947ca4620979c11
+
+num6 = 60 # From B
